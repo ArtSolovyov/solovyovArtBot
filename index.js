@@ -75,7 +75,7 @@ bot.on('callback_query', (query) => {
       });
     }
 
-    console.log(query);
+    
 
   });
 
