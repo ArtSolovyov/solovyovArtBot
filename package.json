@@ -1,0 +1,17 @@
+{
+  "name": "mainfolder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SolovyovArt",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "node-telegram-bot-api": "^0.50.0",
+    "request": "^2.88.2",
+    "spotify-web-api-node": "^4.0.0"
+  }
+}
