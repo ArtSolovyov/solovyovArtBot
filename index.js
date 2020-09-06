@@ -41,7 +41,7 @@ const keyboard = [
     [
       {
         text: '=== Подборки на Spotify ===',
-        url: 'https://soundcloud.com/supersolovyov'
+        url: 'https://open.spotify.com/user/31hj7nki3vv2nphglaqvzn4x5p7e'
       }
     ]
   ];
